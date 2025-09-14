@@ -1,0 +1,16 @@
+# Carpetas de configuración del IDE
+.idea/
+.vscode/
+
+# Carpetas de compilación
+cmake-build-debug/
+build/
+bin/
+
+# Archivos de compilación y ejecutables
+*.o
+*.out
+*.exe
+
+# Archivos de registro
+*.log
